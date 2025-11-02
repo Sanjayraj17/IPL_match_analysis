@@ -1,4 +1,3 @@
-Here’s a complete **README (Project Report)** for your uploaded IPL match analysis project, covering the methodology, dataset details, preprocessing, and insights from EDA.
 
 ---
 
@@ -138,4 +137,3 @@ Ball-by-ball dataset including:
 
 ---
 
-Would you like me to format this README in **Markdown (.md)** file format so you can include it in your GitHub repository or project submission?
